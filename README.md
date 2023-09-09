@@ -32,3 +32,8 @@
 2. WeChat:JAVA1606776851
 
 </details>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/LongYinStudio/count.svg" />
+</p>
