@@ -7,8 +7,9 @@
 
 **你可以在以下位置找到我** 🔗
 
+[<img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-008c8c"/>](https://www.longyinstudio.cn/)
+[<img src="https://img.shields.io/badge/blog-%E5%8D%9A%E5%AE%A2-56b981"/>](https://blog.longyinstudio.cn/)
 [<img src="https://img.shields.io/badge/bilibli-B%E7%AB%99-f27199"/>](https://space.bilibili.com/454410111)
-
 
 <details>
 <summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub 统计</b></summary>
