@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/42208852?s=400&u=c1ca8b6e2e41ea1c1817271d40b3cadd1d8d9836&v=4" width="144" align="right" hspace="0" />
 
-<span>👋<span/> &nbsp;你好吖 <br/> 我是敬培全
+<span>👋<span/> &nbsp;你好吖
 ======
 
 我是一名正在不断学习的全栈开发者！
