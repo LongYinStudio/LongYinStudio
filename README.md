@@ -23,7 +23,7 @@
 <details>
 <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>技能</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,vue,nodejs,react,jquery,svg,laravel,vite,webpack,gulp,babel,c,java,php,py,lua,go,md,mysql,mongodb,sqlite,redis,linux,git,vim,neovim,nginx,docker&theme=light&perline=16" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,vue,nodejs,express,react,jquery,svg,electron,laravel,vite,webpack,gulp,babel,c,java,php,py,lua,go,md,mysql,mongodb,sqlite,redis,linux,git,vim,neovim,nginx,docker&theme=light&perline=16" alt="Skills"/>
 </details>
 
 <details>
