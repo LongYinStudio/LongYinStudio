@@ -27,7 +27,7 @@
 </details>
 
 <details>
-<summary>Contact</summary>
+<summary>Contact/联系方式</summary>
   
 1. QQ:1606776851
 2. WeChat:JAVA1606776851
