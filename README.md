@@ -35,6 +35,6 @@
 </details>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count/主页访问数<br>
   <img src="https://profile-counter.glitch.me/LongYinStudio/count.svg" />
 </p>
