@@ -3,7 +3,7 @@
 <span>👋<span/> &nbsp;你好吖🎉
 ======
 
-我是一名正在不断学习的全栈开发者！👨🏻‍💻
+我是一名正在不断学习的全栈开发者！<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 **你可以在以下位置找到我** 🔗
 
