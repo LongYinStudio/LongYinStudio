@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/42208852?s=400&u=c1ca8b6e2e41ea1c1817271d40b3cadd1d8d9836&v=4" width="144" align="right" hspace="0" />
+<img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/coding.gif" width="266" align="right" hspace="0" />
 
 <span>👋<span/> &nbsp;你好吖🎉
 ======
