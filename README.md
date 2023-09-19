@@ -1,6 +1,6 @@
 <img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/coding.gif" width="30%" align="right" hspace="0" />
 
-<span>👋<span/> &nbsp;你好吖 &nbsp;<img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/happy.gif" width="30"/>
+<img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/Hi.gif" width="30"/> &nbsp;你好吖 &nbsp;<img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/happy.gif" width="30"/>
 ======
 
 我是一名正在不断学习的全栈开发者！<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
