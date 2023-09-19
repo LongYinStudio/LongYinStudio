@@ -1,4 +1,4 @@
-<img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/coding.gif" width="266" align="right" hspace="0" />
+<img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/coding.gif" width="30%" align="right" hspace="0" />
 
 <span>👋<span/> &nbsp;你好吖🎉
 ======
