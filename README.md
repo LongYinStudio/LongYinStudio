@@ -1,7 +1,11 @@
 <img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/coding.gif" width="30%" align="right" hspace="0" />
 
-<img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/Hi.gif" width="30"/> &nbsp;你好吖 &nbsp;<img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/happy.gif" width="30"/>
-======
+<div style="vertical-align: text-top !important;">
+  <img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/Hi.gif" width="30"/>
+    <span style="font-weight: 700;font-size=1.6rem;">你好吖</span>
+  <img src="https://github.com/LongYinStudio/LongYinStudio/blob/main/images/happy.gif" width="30"/>
+</div>
+<hr style="margin:0"/>
 
 我是一名正在不断学习的全栈开发者！<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
